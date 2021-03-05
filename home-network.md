@@ -11,6 +11,8 @@
       - 2 google speakers
       - amazon echo
       - printer
+      - nintendo switch
+      - nintendo 2ds
     - main tv
     - xbox
     - nas
